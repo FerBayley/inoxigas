@@ -10,3 +10,6 @@ header img{height:auto;max-width:582px;width:100%}
 .Container h2{font-family:'Open Sans',sans-serif;font-size:1.1em;font-weight:100;margin:.5em 0 1.7em 0}
 .Logo-poleme{text-align:center}
 .Texto{text-align:center}
+@media (min-width: 320px){header img{height:auto;width:80%}
+.Texto{font-size:1.2em}
+}
